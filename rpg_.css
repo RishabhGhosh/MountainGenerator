@@ -1,0 +1,76 @@
+body {
+    background-color: #D1FFF7 ;    ;
+}
+
+#main {
+    margin: auto;
+    height: 100px;
+    width: 1200px;   
+}
+
+
+#desk {
+    clear: both;
+    margin: auto;
+    background-color: rgb(70, 140, 255); 
+    height: 70px;
+    width: 1200px;
+}
+
+#logo {
+    height: 50px;
+    width: 300px;
+    padding: 10px 10px 10px 50px;
+    float: left;
+    background-color: beige;
+}
+
+.menuItem { 
+    font-family: monospace;
+    font-style: normal;
+    font-size: 20px;
+    float: left;
+    padding: 25px 20px 20px 20px;
+}
+
+#profile {
+    clear: both;
+    margin: auto;
+    background-color: green;
+    height: 400px;
+    width: 1200px;
+}
+
+
+#about {
+    clear: both;
+    margin: auto;
+    background-color: greenyellow;
+    height: 400px;
+    width: 1200px;
+}
+
+#skills {
+    margin: auto;
+    background-color: darkseagreen;
+    height: 400px;
+    width: 1200px;
+}
+
+#exp {
+    margin: auto;
+    background-color: lightyellow;
+    height: 400px;
+    width: 1200px;
+}
+
+#contact {
+    margin: auto;
+    background-color: orange;
+    height: 400px;
+    width: 1200px;
+}
+
+
+ 
+
